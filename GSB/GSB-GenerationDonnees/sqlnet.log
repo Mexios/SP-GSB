@@ -1,0 +1,19 @@
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=xe)(CID=(PROGRAM=WEBHNDLR)(HOST=localhost)(USER=tuxweb)))(ADDRESS=(PROTOCOL=TCP)(HOST=172.16.5.75)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.1.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.1.0 - Production
+  Time: 24-MAI  -2013 10:56:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS : erreur d'adaptateur de protocole
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Erreur d'adaptateur de protocole
+    nt secondary err code: 113
+    nt OS err code: 0

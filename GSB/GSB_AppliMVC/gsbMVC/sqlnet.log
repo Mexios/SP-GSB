@@ -1,0 +1,95 @@
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.1.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.1.0 - Production
+  Time: 31-MAI  -2013 14:29:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS : le délai imparti à l'opération est écoulé
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Temps imparti à l'opération écoulé
+    nt secondary err code: 110
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.1.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.1.0 - Production
+  Time: 31-MAI  -2013 14:31:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS : le délai imparti à l'opération est écoulé
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Temps imparti à l'opération écoulé
+    nt secondary err code: 110
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.1.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.1.0 - Production
+  Time: 31-MAI  -2013 14:33:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS : le délai imparti à l'opération est écoulé
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Temps imparti à l'opération écoulé
+    nt secondary err code: 110
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.1.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.1.0 - Production
+  Time: 31-MAI  -2013 14:45:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS : le délai imparti à l'opération est écoulé
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Temps imparti à l'opération écoulé
+    nt secondary err code: 110
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.1.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.1.0 - Production
+  Time: 04-JUIN -2013 10:41:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS : le délai imparti à l'opération est écoulé
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Temps imparti à l'opération écoulé
+    nt secondary err code: 110
+    nt OS err code: 0
+  Client address: <unknown>
